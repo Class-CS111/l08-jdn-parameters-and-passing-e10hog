@@ -15,8 +15,8 @@ public class Main
 
 		/***** INITIALIZATION SECTION *****/
 
-		todayDateDay = 3;
-		todayDateMonth = 1;
+		todayDateDay = 1;
+		todayDateMonth = 3;
 		todayDateYear = 2025;
 
         // DATE ONE
